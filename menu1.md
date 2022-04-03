@@ -10,6 +10,51 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 
 \toc
 
+## Credit screening (UCI)
+This dataset has been downloaded from UC Irvine Machine Learning Repository.
+<https://archive.ics.uci.edu/ml/datasets/Credit+Approval>
+
+This dataset is regarding credit card applications.
+The target variable/label is whether the application has been granted credit or not.
+All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.
+
+The objective is here to build a classifier model to give **binary output** based on the input attributes.  
+The dataset is balanced.
+
+Check the [notebook](/assets/scripts/Credit Screening.html)
+
+
+## Sales Transaction Weekly of 800 products (UCI)
+
+
+
+
+
+## Car Evaluation
+
+
+
+
+## Online Purchasing Intention Dataset
+
+
+
+
+## LasVegas Strip Dataset
+
+
+
+
+## Telecom Churn
+
+
+
+
+
+
+## Flight Fare Prediction
+## LasVegas Strip Dataset
+
 ## Live evaluation of code blocks
 
 If you would like to show code as well as what the code outputs, you only need to specify where the script corresponding to the code block will be saved.
