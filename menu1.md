@@ -21,7 +21,7 @@ All attribute names and values have been changed to meaningless symbols to prote
 The objective is here to build a classifier model to give **binary output** based on the input attributes.  
 The dataset is balanced.
 
-Check the [notebook](assets/scripts/Credit Screening.html)
+Check the [notebook](/assets/scripts/Credit Screening.html)
 
 
 ## Sales Transaction Weekly of 800 products (UCI)
