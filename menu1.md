@@ -37,8 +37,9 @@ The available information can be used for two kinds of problems.
 - Firstly, we can create a time series forecasting model to predict the sales qty for next week.
 - Secondly, we can build a clustering model to identify natural groupings of the product based on the weekly sales pattern.
 
-Check the [clustering notebook](/assets/scripts/Sales_Transactions_Dataset_Weekly_Clustering.html)
-Check the [regression notebook]
+Check the [clustering notebook](/assets/scripts/Sales_Transactions_Dataset_Weekly_Clustering.html)  
+
+Check the regression notebook.  
 
 ## Car Evaluation
 
