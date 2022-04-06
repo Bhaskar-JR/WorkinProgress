@@ -39,7 +39,7 @@ The available information can be used for two kinds of problems.
 
 Check the [clustering notebook](/assets/scripts/Sales_Transactions_Dataset_Weekly_Clustering.html)  
 
-Check the regression notebook.  
+Check the [regression notebook](/assets/scripts/Sales_Transactions_Dataset_Weekly_Clustering/Sales_Transactions_Dataset_Weekly_Clustering.md)
 
 ## Car Evaluation
 
